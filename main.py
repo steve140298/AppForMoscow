@@ -18,7 +18,7 @@ KV = '''
     selected_color: "#4a4939"
     _no_ripple_effect: True
 
-
+d
 MDScreen:
 
     MDTopAppBar:
